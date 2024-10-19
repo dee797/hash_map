@@ -1,0 +1,30 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+    "extends": [
+        "airbnb-base",
+        "prettier"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 15
+    },
+    "rules": {
+        "no-console": "off",
+        "no-unused-vars": "warn",
+        "eol-last": "off",
+        "indent": "off",
+        "func-names": "off",
+        "prefer-destructuring": "off",
+        "no-multiple-empty-lines": "off",
+        "consistent-return": "warn",
+        "no-alert": "off",
+        "padded-blocks": "off",
+        "no-use-before-define": "off",
+        "radix": "off",
+        "max-classes-per-file": "off",
+        "no-plusplus": "off",
+        "no-restricted-syntax": "off"
+    }
+}
