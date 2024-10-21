@@ -26,6 +26,7 @@
         "max-classes-per-file": "off",
         "no-plusplus": "off",
         "no-restricted-syntax": "off",
-        "class-methods-use-this": "off"
+        "class-methods-use-this": "off",
+        "import/extensions": "off"
     }
 }
